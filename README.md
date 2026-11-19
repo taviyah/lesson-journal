@@ -1,8 +1,10 @@
 # Lesson Journal (יומן שיעורים)
 
 A small web app for a private **vocal coach** to log lessons. It runs entirely inside the teacher's
-own Google account as a Google Apps Script web app: free, no server to maintain, and student data
-never leaves her account. Hebrew, right-to-left, built for the iPad and also used on a laptop.
+own Google account as a Google Apps Script web app: free, with no server to maintain. The journal
+keeps the lesson summaries and files in her Google account; the summary itself is prepared separately
+(by an AI tool, from her voice note) and pasted in. Hebrew, right-to-left, built for the iPad and
+also used on a laptop.
 In daily use since 2026.
 
 **Live demo with made-up students:** https://aviyah-apps.taviyah.workers.dev/demo/lesson-journal/
